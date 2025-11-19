@@ -1,3 +1,4 @@
+# NOTE: the notebook is too large to display, just download it and open in Colab :)
 
 # Multimodal RAG with ColQwen2.5, Weaviate, and Qwen2.5-VL
 
